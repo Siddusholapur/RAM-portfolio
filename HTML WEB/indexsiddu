@@ -1,0 +1,167 @@
+
+<doctype html>
+    <html> 
+    <head>
+    <title>
+    IS MY WEB SITE
+    </title>
+    <LINK rel="STYLESHEET" href="style.css">
+    </head> 
+        <body style="background-image: -moz-element();">
+            <h6> 
+                this for siddu
+            </h6>   
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga incidunt doloremque ex vel hic cupiditate, consequatur nihil blanditiis, tenetur quam odit magni fugiat? Laborum, est distinctio. Ducimus quia cupiditate facere?
+                Hello, I am ROOPA. nxxbfbsd
+            </p><br>
+            <!-- <p style="background-color: brown;"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates minima nobis error voluptatem corporis ducimus nisi ab dolorem impedit reprehenderit iste in veritatis quas optio voluptatibus eveniet, veniam non neque, beatae quaerat, fugit provident modi magnam. Saepe totam quaerat illum perferendis fuga enim tempore, vel offict.</p> -->
+
+
+            <script src="siddu.js"></script>
+
+          <img src="download.jpg" alt="this is siddu image" width="200" height="200">
+           <br> <br>
+          <table>
+            <caption> this is my table </caption> 
+            <tbody>
+                <thead> this is head </thead>
+            <tr>
+            <TH> siddu </TH>
+            <th> ram</th>
+            <th> akhil</th>
+            </Tr>
+            <tr>
+            <td> wow</td>
+            <td> sing</td>
+            <td> ram</td>
+            </tr>
+
+            <tr>
+                <td>shola</td>
+                <td>pur</td>
+                <td>siddaram </td>
+            </tr> 
+            </tbody>
+         <!-- <tfoot> this is foot </tfoot> -->
+          </table>
+          <ul>
+
+             <li> siddu</li>
+             <li> roopa</li>
+             <li> akhil</li>    
+          </ul>
+            <ol>
+                <li> one</li>
+                <li> two</li>
+                <li> three</li>
+            </ol>
+            <a href="https://www.google.com/"> this is google link</a>
+
+            <br> <br>
+            1. <input type="text" name="text" placeholder="enter your text"> <br> <br> 
+             2. <input type="password" name="password" placeholder="enter your password  
+            "> <br> <br>
+            3. <input type="email" name="email" placeholder="enter your email"> <br> <br>
+            4. <input type="number" name="number" placeholder="enter your number    "> <br> <br>
+            5. <input type="date" name="date" placeholder="enter your date"> <br> <br>
+            6. <input type="file" name="file" placeholder="enter your file"> <br> <br>
+            7. <input type="checkbox" name="checkbox" > <br> <br>
+            8. <input type="radio" name="radio" > <br> <br>
+            9. <input type="submit" name="submit" value="click me"> <br> <br>       
+            <button onclick="document.write(Date())"> click me to know date</button>
+             <br> <br>    
+            <!-- <button onclick="document.body.style.backgroundColor='aqua'"> click me to change background color</button> -->
+             <button onclick="document.getElementById('myCanvas').style.border='5px solid red'"> click me to change canvas border</button>
+            10. <input type="reset" name="reset" value="reset">
+            <br> <br>   
+            <textarea name="message" rows="10" cols="30" placeholder="enter your message"> </textarea>
+            <br> <br>   
+            <select name="cars" id="cars">
+                <option value="volvo"> volvo</option>
+                <option value="bmw"> bmw</option>
+                <option value="audi"> audi</option>
+                <option value="ferrari"> ferrari</option>
+            </select>
+            <br> <br>   
+            <iframe src="https://www.google.com/" width="300" height="200"></iframe>
+            <br> <br>   
+            <video width="320" height="240" controls>
+                <source src="" type="video/mp4">
+                <source src="movie.ogg" type="video/ogg">
+                your browser does not support the video tag     
+            </video>
+            <br> <br>
+            <audio controls>
+                <source src="audio.mp3" type="audio/mpeg">
+                <source src="audio.ogg" type="audio/ogg">
+                your browser does not support the audio tag         
+            </audio>
+            <br> <br>
+            <embed src="sample.pdf" type="application/pdf" width="500" height="600">
+            <br> <br>   
+            <object data="sample.pdf" type="application/pdf" width="500" height="600">
+                <p> your browser does not support object tag </p>   
+            </object>
+            <br> <br>
+            <canvas id="myCanvas" width="200" height="100" style="border:1px solid #068330;">
+                your browser does not support canvas tag    
+            </canvas>
+            <br> <br>   
+            <svg width="100" height="100">
+                <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill=" pink" />        
+            </svg>
+            <br> <br>
+            <details>
+                <summary> this is summary</summary>
+                this is details
+                what is this 
+                hey this is ram
+            </details>
+            <br> <br>
+            <mark> this is mark tag </mark>
+            <br> <br>
+            <progress value="90" max="100">  </progress>
+            <br> <br>
+            <meter value="9" min="" max="20"> 2 out of 10 </meter>
+            <br> <br>
+            <time datetime="2024-06-01"> june 1, 2024
+            </time>
+            <br> <br>
+            <abbr title="abbreviation"> abbreviation </abbr>
+            <br> <br>   
+            <bdi> this is bdi tag </bdi>    
+            <br> <br>
+            <bdo dir="rtl"> this is bdo tag </bdo>
+            <br> <br>
+            <span style="color: orangered;"> this is span tag </span>
+            <br> <br>
+            <strong> this is strong tag </strong>
+            <br> <br>
+            <em> this is em tag </em>
+            <br> <br>
+            <small> this is small tag </small>
+            <br> <br>
+            <sup> this is sup tag </sup>
+            <br> <br>
+            <sub> this is sub tag </sub>
+            <br> <br>
+            <ins> this is ins tag </ins>
+            <br> <br>
+            <del> this is del tag </del>
+            <br> <br>
+            <code> this is code tag </code>
+            <br> <br>
+            <pre> this is pre tag </pre>
+            <br> <br>
+
+
+
+
+        </body>
+   
+   
+    </html>
+</doctype> 
+
+
+
